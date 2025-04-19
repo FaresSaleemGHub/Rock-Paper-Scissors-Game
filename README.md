@@ -13,14 +13,10 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 - Displays game statistics including wins, draws, and final winner.
 - Option to replay the game.
 
----
-
 ## 🛠️ Requirements
 
 - A C++ compiler (e.g., g++, MSVC).
 - Windows OS (uses `system("cls")` and `system("color")`).
-
----
 
 ## 🧠 How It Works
 - You select the number of rounds.
@@ -28,7 +24,17 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 - The computer randomly selects a choice.
 - The game compares choices and updates the score.
 - After all rounds, the game displays:
-- Number of wins for the player and computer.
-- Number of draws.
-- Final winner.
+-- Number of wins for the player and computer.
+-- Number of draws.
+-- Final winner.
 - You can replay the game as many times as you'd like.
+
+## 🎥 Demo
+Watch the game in action: [https://www.youtube.com/watch?v=dQjE-pSBYrw]
+
+## 👤 Author
+Your Name – @FaresSaleemGHub
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
