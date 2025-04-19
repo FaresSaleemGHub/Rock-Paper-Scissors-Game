@@ -1,5 +1,8 @@
 # 🪨📄✂️ Rock-Paper-Scissors Game (C++)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## 📄 Description
+This is a simple Rock-Paper-Scissors game implemented in C++.
 This is a fun and interactive Rock-Paper-Scissors game written in C++. You play against the computer in multiple rounds, and the program determines the winner of each round and the overall game.
 
 ---
