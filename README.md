@@ -52,7 +52,7 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 - You can replay the game as many times as you'd like.
 
 ## 🎥 Demo
-Watch the game in action: [https://www.youtube.com/watch?v=dQjE-pSBYrw]
+Watch the game in action: [Youtube](https://www.youtube.com/watch?v=dQjE-pSBYrw)
 
 ## 👤 Author
 Your Name – @FaresSaleemGHub
