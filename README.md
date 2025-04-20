@@ -19,6 +19,13 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 - Windows OS (uses `system("cls")` and `system("color")`).
 
 ## ⚙️ Installation
+### 📦 Prerequisites
+- A C++ compiler:
+  - [MinGW](http://www.mingw.org/) for Windows
+  - GCC for Linux
+  - Xcode Command Line Tools for macOS
+
+### 🧭 Steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/FaresSaleemGHub/Rock-Paper-Scissors-Game.git
@@ -52,4 +59,3 @@ Your Name – @FaresSaleemGHub
 
 ## 📜 License
 This project is open-source and available under the MIT License.
-
