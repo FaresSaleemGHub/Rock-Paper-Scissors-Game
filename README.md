@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock-Paper-Scissors Game (C++)
+# 🧱📄✂️ Rock-Paper-Scissors Game (C++)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
