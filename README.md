@@ -1,10 +1,13 @@
 # 🧱📄✂️ Rock-Paper-Scissors Game (C++)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <br>
+It's a simple nice game.
 
 ---
 
 ## 📄 Description
 This is a fun and interactive Rock-Paper-Scissors game written in C++. You play against the computer in multiple rounds, and the program determines the winner of each round and the overall game.
+
+---
 
 ## 🎮 Features
 - Command-line interface with user prompts.
@@ -14,9 +17,13 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 - Displays game statistics including wins, draws, and final winner.
 - Option to replay the game.
 
+---
+
 ## 🛠️ Requirements
 - A C++ compiler (e.g., g++, MSVC).
 - Windows OS (uses `system("cls")` and `system("color")`).
+
+---
 
 ## ⚙️ Installation
 ### 📦 Prerequisites
@@ -39,6 +46,8 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 4. Run the game:
    ```bash
    ./MathGame
+
+---
    
 ## 🧠 How It Works
 - You select the number of rounds.
@@ -51,11 +60,17 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 -- Final winner.
 - You can replay the game as many times as you'd like.
 
+---
+
 ## 🎥 Demo
 Watch the game in action: [Youtube](https://www.youtube.com/watch?v=dQjE-pSBYrw)
 
+---
+
 ## 👤 Author
 Written with passion by – @FaresSaleemGHub
+
+---
 
 ## 📜 License
 This project is open-source and available under the MIT License.
