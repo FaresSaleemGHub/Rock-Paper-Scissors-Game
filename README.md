@@ -55,7 +55,7 @@ This is a fun and interactive Rock-Paper-Scissors game written in C++. You play 
 Watch the game in action: [Youtube](https://www.youtube.com/watch?v=dQjE-pSBYrw)
 
 ## 👤 Author
-Your Name – @FaresSaleemGHub
+Written with passion by – @FaresSaleemGHub
 
 ## 📜 License
 This project is open-source and available under the MIT License.
